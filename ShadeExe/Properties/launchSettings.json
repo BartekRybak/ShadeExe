@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShadeExe": {
+      "commandName": "Project",
+      "commandLineArgs": "test.bat"
+    }
+  }
+}

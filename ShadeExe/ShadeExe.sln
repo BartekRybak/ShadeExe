@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadeExe", "ShadeExe.csproj", "{CBC6AF08-52A2-4C47-9B63-E59B97A3833D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC6AF08-52A2-4C47-9B63-E59B97A3833D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC6AF08-52A2-4C47-9B63-E59B97A3833D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC6AF08-52A2-4C47-9B63-E59B97A3833D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC6AF08-52A2-4C47-9B63-E59B97A3833D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8B50D99-E83E-4728-8947-9CF2D35E7D34}
+	EndGlobalSection
+EndGlobal
